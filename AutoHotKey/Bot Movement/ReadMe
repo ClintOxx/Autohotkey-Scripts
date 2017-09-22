@@ -1,0 +1,9 @@
+This is a script that will move your character forward and jump out the plane at an random range. 
+
+You will have to use this with another bot , it is not a stand alone bot meant to be used by itself. 
+
+The rand sleep time denotes what range of time the bot will jump out the plane 
+
+The sleep time inside the loop for pressing W will let you know how long that key will be pressed for. it will run 5 times on default until it moves to the next phase. 
+
+The next phase is for the script to rest long enough for you to exit the game and get through the main menu and waiting lobby. The values I have in there should auto sync up with the python bot .
